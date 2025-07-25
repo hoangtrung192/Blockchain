@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSaveWorkspaceFilesOnly": true,
+    "files.autoSaveWhenNoErrors": true
+}
